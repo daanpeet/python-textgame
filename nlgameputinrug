@@ -1,0 +1,25 @@
+import time
+hp = 100
+stamina = 175
+moabactivator = 0
+machineguns = 0
+chocorepen = 0
+
+
+print()
+time.sleep(3)
+print("Je sprong achterop super-mega-robot-Putins™ rug")
+print("O wauw, ik dacht al dat ik daar nooit uit zou komen! Maar vertel eens,")
+print("waar zijn we eigenlijk?")
+print("We zijn in midden-Oekraïne op een geheime basis van de kwaadaardige amerikanen!")
+print()
+print("Bam, Bam, Bam, BAM, BAM, BAM, je hoort troepen dichterbij komen")
+time.sleep(5)
+print("Ineens komen er een heleboel Amerikanen aan met geweren en Moabs,")
+print("super-mega-robot-Putin™ houdt het niet lang vol en zegt tegen je dat je snel weg moet gaan.")
+print("Je springt van zijn rug af en rent snel weg, als je achter je kijkt zie je super-mega-robot-Putin™")
+print("op de grond liggen terwijl hij verder wordt afgeslacht door de Amerikanen.")
+print()
+time.sleep(5)
+
+richting = input("Je bent nu in een doffe, stalen hal met een heleboel leidingen en doosjes welke kant wil je op? Links of Rechts")
