@@ -1,0 +1,12 @@
+#everything here is dutch because i am dutch and the english version isn't even started yet.
+print("Je hebt dus nederlands gekozen! Welkom bij mijn avontuur-achtige spel waarin je op een mini-avontuur gaat door tijd en ruimte.")
+startscherm = input("Start, krediet")
+if startscherm == "krediet":
+    print("Bedacht, geprogrammeerd en gemaakt door Daniël Peters. Met dank aan mijn ouders voor alle aanmoediging!")
+elif startscherm == "start":
+    import nlgame
+terug = input("Ga terug naar het startscherm")
+if terug == "":
+ startscherm = input("Start, krediet")
+if startscherm == "start":
+    import nlgame
