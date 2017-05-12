@@ -1,0 +1,6 @@
+print("selecteer eerst maar een taal:")
+taal = input("nederlands of engels?")
+if taal == "nederlands":
+    import nlstart
+elif taal == "engels":
+    import englstart
