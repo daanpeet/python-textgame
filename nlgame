@@ -1,0 +1,26 @@
+import time
+
+print()
+naam = input("wat is je naam?")
+print("Meneer! Test onderwerp 85 heeft zijn naam gegeven.")
+print("Hoe heet hij dan?")
+print("Hij zegt dat ie' {} heet.".format(naam))
+print("Dus, {}, je bent in de buurt van onze super-duper-geheime-atoom-basis-tegen-rusland™ gevonden en dus moesten we jou binnen halen.".format(naam))
+print("En dat betekende dat we jou moeten opslaan in onze russische-spionnen-scanner-capsules™ zodat we zeker wisten dat je geen spion was en gewoon -")
+print("- een idioot die niets snapte van deze basis.")
+print("En het blijkt dus dat je ECHT helemaal niks snapt van deze gebeurtenissen. Dus hebben wij geluk he!")
+time.sleep(5)
+print()
+print("(Je spreekt nu tegen hen.) Maar, maar ik snap niet wat dit is! Laat me vrij of zo. Ik weet niet eens waar we zijn!")
+time.sleep(10)
+print()
+print("*krrrrpgggrrrngggaaang* *baf, bang doef klap bang*")
+print("Maak je geen zorgen, ik ben mega-robot-Putin™ en ik kom je snel redden!")
+
+keus1 = input("spring achterop mega-robot-Putin's™ rug of ren achter hem aan ")
+if keus1 == "spring achterop mega-robot-putins rug":
+    import nlgameputinrug
+elif keus1 == "spring achterop":
+          import nlgameputinrug
+elif keus1 == "spring achterop putins rug":
+                import nlgameputinrug
